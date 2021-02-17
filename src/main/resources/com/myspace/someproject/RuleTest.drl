@@ -1,2 +1,9 @@
 package com.myspace.someproject;
 
+rule "my rule"
+
+when
+    // conditions
+then
+    //actions here
+end
